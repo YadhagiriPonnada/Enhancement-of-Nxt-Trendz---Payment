@@ -10,7 +10,7 @@ const Home = () => (
       <div className="home-content">
         <h1 className="home-heading">Clothes That Get YOU Noticed</h1>
         <img
-          src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-img.png"
+          src="https://res.cloudinary.com/dveyxa6i5/image/upload/v1743393377/gettyimages-867341470-170667a_zdxpg9.jpg"
           alt="clothes that get you noticed"
           className="home-mobile-img"
         />
@@ -28,7 +28,7 @@ const Home = () => (
         </Link>
       </div>
       <img
-        src="https://assets.ccbp.in/frontend/react-js/nxt-trendz-home-img.png"
+        src="https://res.cloudinary.com/dveyxa6i5/image/upload/v1739357801/samples/man-on-a-street.jpg"
         alt="clothes that get you noticed"
         className="home-desktop-img"
       />
